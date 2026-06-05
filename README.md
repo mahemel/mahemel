@@ -1,6 +1,6 @@
 <img width="1376" height="652" alt="Mahbub_Hasan" src="https://github.com/user-attachments/assets/778f38ad-6732-4e00-a055-dd45665f32dd" />
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
-<h3 align="center">Senior Frontend Developer | JavaScript & React Enthusiast</h3>
+<h3 align="center">Full-Stack Developer (MERN) | React & Next.js Engineer | Building Scalable, API-Driven Web Applications</h3>
 <p align="center">Dhaka, Bangladesh</p>
 
 
