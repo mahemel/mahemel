@@ -35,7 +35,8 @@ Senior Frontend Engineer with 13+ years building scalable, high‑performance we
 
 ## Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/mahbubhasan-dev" target="blank">LINKEDIN</a>
+<a href="https://linkedin.com/in/mahbubhasan-dev" target="blank">LINKEDIN</a> | 
+<a href="https://mahbubhasan-dev.vercel.app" target="blank">PORTFOLIO</a>
 </p>
 
 ---
