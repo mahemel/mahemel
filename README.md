@@ -1,4 +1,4 @@
-<img width="2064" height="512" alt="Mahbub_Hasan" src="https://github.com/user-attachments/assets/d1a9078e-a4de-4454-b9ed-198e95017d32" />
+<img width="1983" height="793" alt="Mahbub_Hasan_Github" src="https://github.com/user-attachments/assets/40ccda84-cc53-42bc-9f82-8bbd084d79ec" />
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
 <h3 align="center">Senior Frontend Engineer — React & Next.js | Scalable UI Architecture, Performance Optimization & API-Driven Systems</h3>
 <p align="center">Dhaka, Bangladesh</p>
