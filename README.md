@@ -1,15 +1,17 @@
 <img width="1376" height="652" alt="Mahbub_Hasan" src="https://github.com/user-attachments/assets/778f38ad-6732-4e00-a055-dd45665f32dd" />
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
-<h3 align="center">Full-Stack Developer (MERN) | React & Next.js Engineer | Building Scalable, API-Driven Web Applications</h3>
+<h3 align="center">Senior Frontend Engineer — React & Next.js | Scalable UI Architecture, Performance Optimization & API-Driven Systems</h3>
 <p align="center">Dhaka, Bangladesh</p>
 
 
 ---
-Front-End Developer passionate about transforming ideas into interactive, high-performance web applications with strong technical expertise. 
-**Current Activities:**
-- Exploring modern React features
-- Working on responsive websites and personal projects
-- Contributing to open-source projects
+
+Senior Frontend Engineer with 13+ years building scalable, high‑performance web applications for global brands. I specialize in React.js and Next.js, frontend architecture, performance optimization, and crafting user‑centric digital experiences.
+
+- Led frontend architecture, reusable component systems, and code reviews for production apps.
+- Improved Core Web Vitals through caching, code‑splitting, and performance audits.
+- Built interactive experiences with GSAP and Three.js while maintaining accessibility (ADA) and maintainability.
+- Collaborated with designers, product managers, and backend engineers to deliver production‑ready releases and handle go‑live operations.
 
 ---
 ## Languages & Frameworks & Tools
