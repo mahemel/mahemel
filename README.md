@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="Mahbub_Hasan_Github" src="https://github.com/user-attachments/assets/40ccda84-cc53-42bc-9f82-8bbd084d79ec" />
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
-<h3 align="center">Senior Frontend Engineer | MERN | Next.js | React | JavaScript | Scalable UI Architecture | Performance Optimization | API-Driven Systems</h3>
+<h3 align="center">Senior Frontend Engineer</h3>
 <p align="center">Dhaka, Bangladesh</p>
 
 
@@ -8,28 +8,42 @@
 
 Frontend Engineer with 13+ years building scalable, high‑performance web applications for global brands. I specialize in React.js and Next.js, frontend architecture, performance optimization, and crafting user‑centric digital experiences.
 
+- 13+ years of frontend development experience delivering scalable web applications and digital experiences.
 - Led frontend architecture, reusable component systems, and code reviews for production apps.
-- Improved Core Web Vitals through caching, code‑splitting, and performance audits.
-- Built interactive experiences with GSAP and Three.js while maintaining accessibility (ADA) and maintainability.
-- Collaborated with designers, product managers, and backend engineers to deliver production‑ready releases and handle go‑live operations.
+- Successfully launched 40+ websites and 60+ digital campaigns for global brands.
+- Improved Core Web Vitals through caching, code-splitting, performance audits, and accessibility-focused implementation.
+
+**Current Activities:**
+- Exploring TypeScript and refining advanced frontend engineering practices.
+- Working on a financial account maintenance software.
+- Improving my skills in Express.js and MongoDB/Mongoose.
+- Experimenting with AI tools to accelerate frontend and backend workflows.
+- Exploring new opportunities to grow my career toward MERN-focused roles.
 
 ---
-## Languages & Frameworks & Tools
-<div align="left">
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+</p>
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/daisyUI-4B5563?style=for-the-badge&logo=daisyui&logoColor=white"/>
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
 
-</div>
+---
+
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mahemel&theme=light)
+
+---
+
+## GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahemel&theme=radical)
 
 ---
 
@@ -38,10 +52,3 @@ Frontend Engineer with 13+ years building scalable, high‑performance web appli
 <a href="https://linkedin.com/in/mahbubhasan-dev" target="blank">LINKEDIN</a> | 
 <a href="https://mahbubhasan-dev.vercel.app" target="blank">PORTFOLIO</a>
 </p>
-
----
-
-## GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahemel&theme=radical)
-
----
