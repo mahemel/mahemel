@@ -1,7 +1,7 @@
 <img width="1983" height="793" alt="Mahbub_Hasan_Github" src="https://github.com/user-attachments/assets/40ccda84-cc53-42bc-9f82-8bbd084d79ec" />
 <h1 align="center">Hi 👋, I'm Mahbub Hasan</h1>
 <h3 align="center">Senior Frontend Engineer</h3>
-<p align="center">Dhaka, Bangladesh</p>
+<p align="center">Dhaka, Bangladesh | mahbubhasanhemel@gmail.com | +8801675252034</p>
 
 
 ---
