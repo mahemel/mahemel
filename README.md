@@ -23,7 +23,7 @@ Frontend Engineer with 13+ years building scalable, high‑performance web appli
 ---
 ### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,typescript" />
 </p>
 
 ### Backend
