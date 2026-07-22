@@ -38,10 +38,6 @@ Frontend Engineer with 13+ years building scalable, high‑performance web appli
 
 ---
 
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=mahemel&theme=light)
-
----
-
 ## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahemel&theme=radical)
 
